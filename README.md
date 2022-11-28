@@ -22,6 +22,7 @@
  <img src="https://img.shields.io/badge/AndroidStudio-FFDD00?style=flat-square&logo=AndroidStudio&logoColor=13324B"/>
  <img src="https://img.shields.io/badge/VisualStudioCode-94399E?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
  <img src="https://img.shields.io/badge/RStudio-0093DD?style=flat-square&logo=RStudio&logoColor=white"/>
+ <br><br><br>
  
 </div>
   
