@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ <img src="https://img.shields.io/badge/TypeScript-yellow?style=flat&logo=TypeScript&logoColor=white"/>
+
 <!--
 **seyoung712/seyoung712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
