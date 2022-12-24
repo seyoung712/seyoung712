@@ -7,15 +7,15 @@
  <h3><b>SKILLs<b></h3>
 
  Tech Stack <br><br>
- <img src="https://img.shields.io/badge/Java-004994?style=flat-square&logo=JAVA&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-005A9C?style=flat-square&logo=JAVA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-FBB040?style=flat-square&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-F7931E?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=Python&logoColor=white"/>
   <br>
- <img src="https://img.shields.io/badge/Html-FEAA2D?style=flat-square&logo=html&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS-FFE200?style=flat-square&logo=css&logoColor=black"/>
- <img src="https://img.shields.io/badge/JavaScript-1BB76E?style=flat-square&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/SpringBoot-008FC7?style=flat-square&logo=SpringBoot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Html-CC6699?style=flat-square&logo=html&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-FF7F7F?style=flat-square&logo=css&logoColor=black"/>
+ <img src="https://img.shields.io/badge/JavaScript-FFE200?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SpringBoot-018EF5?style=flat-square&logo=SpringBoot&logoColor=white"/>
  
  Tools <br><br>
  <img src="https://img.shields.io/badge/IntelliJ-00274E?style=flat-square&logo=IntelliJ&logoColor=white"/>
