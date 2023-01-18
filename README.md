@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/badge/Java-005A9C?style=flat-square&logo=JAVA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-F7931E?style=flat-square&logo=C&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-8BC0D0?style=flat-square&logo=Python&logoColor=black"/>
   <br>
  <img src="https://img.shields.io/badge/Html-CC6699?style=flat-square&logo=html&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-FF7F7F?style=flat-square&logo=css&logoColor=black"/>
