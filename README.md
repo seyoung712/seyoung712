@@ -9,7 +9,7 @@
  Tech Stack <br><br>
  <img src="https://img.shields.io/badge/Java-2AA5DC?style=flat-square&logo=JAVA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-F7931E?style=flat-square&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-FFB80B?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-8BC0D0?style=flat-square&logo=Python&logoColor=black"/>
   <br>
  <img src="https://img.shields.io/badge/Html-CC6699?style=flat-square&logo=html&logoColor=white"/>
