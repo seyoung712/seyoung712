@@ -25,7 +25,6 @@
  <br>
  <img src="https://img.shields.io/badge/MongoDB-FFB71B?style=flat-square&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-FF66AA?style=flat-square&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/MSSQL-BA478F?style=flat-square&logo=MSSQL&logoColor=white"/>
  <br>
  <img src="https://img.shields.io/badge/RStudio-0093DD?style=flat-square&logo=RStudio&logoColor=white"/>
  <img src="https://img.shields.io/badge/AndroidStudio-FFDD00?style=flat-square&logo=AndroidStudio&logoColor=13324B"/>
