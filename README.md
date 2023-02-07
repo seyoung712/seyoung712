@@ -37,10 +37,8 @@
  </div>
   
   
-  <div align=center>
-  <br>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoung712&show_icons=true)
-  </div>
-  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung712)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seyoung712&show_icons=true&theme=swift)
   
    ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer)
