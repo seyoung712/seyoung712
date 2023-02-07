@@ -33,7 +33,14 @@
  <img src="https://img.shields.io/badge/3DMax-0AC18E?style=flat-square&logo=3dMax&logoColor=black"/>
  <img src="https://img.shields.io/badge/GitHub-F64935?style=flat-square&logo=GitHub&logoColor=white"/>
  <br><br><br>
- 
-</div>
+  <br><br><br>
+ </div>
+  
+  
+  <div align=center>
+  <br>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoung712&show_icons=true)
+  </div>
+  
   
    ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer)
