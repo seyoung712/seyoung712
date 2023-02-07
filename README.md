@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B2EBF4&height=300&section=header&text=Hello,%20Seyoung's%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D2E5A8&height=300&section=header&text=Hello,%20Seyoung's%20Github&fontSize=70)
 
 <div align=center>
  <h3><b>SKILLs<b></h3>
