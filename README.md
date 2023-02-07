@@ -7,7 +7,7 @@
  <h3><b>SKILLs<b></h3>
 
  Tech Stack <br><br>
- <img src="https://img.shields.io/badge/Java-2AA5DC?style=flat-square&logo=JAVA&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-018EF5?style=flat-square&logo=JAVA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-FFB80B?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-8BC0D0?style=flat-square&logo=Python&logoColor=black"/>
@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/JavaScript-FFE200?style=flat-square&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot-0ABF53?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br>
- <img src="https://img.shields.io/badge/React-018EF5?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-02A9FF?style=flat-square&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node-9999FF?style=flat-square&logo=React&logoColor=white"/>
  
  Tools <br><br>
