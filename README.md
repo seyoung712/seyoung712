@@ -32,8 +32,9 @@
  <img src="https://img.shields.io/badge/AndroidStudio-FFDD00?style=flat-square&logo=AndroidStudio&logoColor=13324B"/>
  <img src="https://img.shields.io/badge/3DMax-0AC18E?style=flat-square&logo=3dMax&logoColor=black"/>
  <img src="https://img.shields.io/badge/GitHub-F64935?style=flat-square&logo=GitHub&logoColor=white"/>
- <br><br><br>
-  <br><br><br>
+ <br><br>
+  #
+  <br>
  
   
   
