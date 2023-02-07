@@ -31,7 +31,7 @@
  <img src="https://img.shields.io/badge/RStudio-0093DD?style=flat-square&logo=RStudio&logoColor=white"/>
  <img src="https://img.shields.io/badge/AndroidStudio-FFDD00?style=flat-square&logo=AndroidStudio&logoColor=13324B"/>
  <img src="https://img.shields.io/badge/3DMax-0AC18E?style=flat-square&logo=3dMax&logoColor=black"/>
- <img src="https://img.shields.io/badge/Git-F64935?style=flat-square&logo=Git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-F64935?style=flat-square&logo=GitHub&logoColor=white"/>
  <br><br><br>
  
 </div>
