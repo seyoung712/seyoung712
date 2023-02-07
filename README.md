@@ -1,7 +1,4 @@
-
- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hello%20SeYoung's%20Git&fontSize=40&animation=fadeIn&fontAlign=70&rotate=12&stroke=A6A6A6)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=300&section=header&text=Hello,%20Seyoung's%20Github&fontSize=70)
 
 <div align=center>
  <h3><b>SKILLs<b></h3>
@@ -43,5 +40,4 @@
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seyoung712&show_icons=true&theme=swift)
 </div>
   
-  
-   ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer)
+   ![footer](https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=300&section=footer)
