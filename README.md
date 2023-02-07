@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=300&section=header&text=Hello,%20Seyoung's%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B2EBF4&height=300&section=header&text=Hello,%20Seyoung's%20Github&fontSize=70)
 
 <div align=center>
  <h3><b>SKILLs<b></h3>
@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/badge/Java-018EF5?style=flat-square&logo=JAVA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-FFB80B?style=flat-square&logo=C&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-8BC0D0?style=flat-square&logo=Python&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Python-528DD7?style=flat-square&logo=Python&logoColor=black"/>
   <br>
  <img src="https://img.shields.io/badge/Html-CC6699?style=flat-square&logo=html&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-FF7F7F?style=flat-square&logo=css&logoColor=black"/>
@@ -40,4 +40,4 @@
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seyoung712&show_icons=true&theme=swift)
 </div>
   
-   ![footer](https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=300&section=footer)
+   ![footer](https://capsule-render.vercel.app/api?type=waving&color=D2E5A8&height=300&section=footer)
