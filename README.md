@@ -14,8 +14,8 @@
  <img src="https://img.shields.io/badge/JavaScript-FFE200?style=flat-square&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot-0ABF53?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br>
- <img src="https://img.shields.io/badge/React-02A9FF?style=flat-square&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Node-9999FF?style=flat-square&logo=React&logoColor=white"/>
+ <!--<img src="https://img.shields.io/badge/React-02A9FF?style=flat-square&logo=React&logoColor=white"/>-->
+ <!--<img src="https://img.shields.io/badge/Node-9999FF?style=flat-square&logo=React&logoColor=white"/>-->
  <br><br>
  Tools :bulb:<br><br>
   <img src="https://img.shields.io/badge/VisualStudioCode-94399E?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
